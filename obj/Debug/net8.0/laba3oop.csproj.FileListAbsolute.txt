@@ -1,0 +1,87 @@
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\bin\Debug\net8.0\laba3oop.exe
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\bin\Debug\net8.0\laba3oop.deps.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\bin\Debug\net8.0\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\bin\Debug\net8.0\laba3oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\refint\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba3oop\obj\Debug\net8.0\ref\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\bin\Debug\net8.0\laba3oop.exe
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\bin\Debug\net8.0\laba3oop.deps.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\bin\Debug\net8.0\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\bin\Debug\net8.0\laba3oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\refint\laba3oop.dll
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.pdb
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+C:\Users\hfdkw\OneDrive\Рабочий стол\laba4oop\obj\Debug\net8.0\ref\laba3oop.dll
+C:\Нова папка\laba_4_zdor\bin\Debug\net8.0\laba3oop.exe
+C:\Нова папка\laba_4_zdor\bin\Debug\net8.0\laba3oop.deps.json
+C:\Нова папка\laba_4_zdor\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+C:\Нова папка\laba_4_zdor\bin\Debug\net8.0\laba3oop.dll
+C:\Нова папка\laba_4_zdor\bin\Debug\net8.0\laba3oop.pdb
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.dll
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\refint\laba3oop.dll
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.pdb
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+C:\Нова папка\laba_4_zdor\obj\Debug\net8.0\ref\laba3oop.dll
+D:\ForStudy\work\bin\Debug\net8.0\laba3oop.exe
+D:\ForStudy\work\bin\Debug\net8.0\laba3oop.deps.json
+D:\ForStudy\work\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+D:\ForStudy\work\bin\Debug\net8.0\laba3oop.dll
+D:\ForStudy\work\bin\Debug\net8.0\laba3oop.pdb
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.sourcelink.json
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.dll
+D:\ForStudy\work\obj\Debug\net8.0\refint\laba3oop.dll
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.pdb
+D:\ForStudy\work\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+D:\ForStudy\work\obj\Debug\net8.0\ref\laba3oop.dll
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.sourcelink.json
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.dll
+C:\Users\1\Desktop\work\obj\Debug\net8.0\refint\laba3oop.dll
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.pdb
+C:\Users\1\Desktop\work\bin\Debug\net8.0\laba3oop.exe
+C:\Users\1\Desktop\work\bin\Debug\net8.0\laba3oop.deps.json
+C:\Users\1\Desktop\work\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+C:\Users\1\Desktop\work\bin\Debug\net8.0\laba3oop.dll
+C:\Users\1\Desktop\work\bin\Debug\net8.0\laba3oop.pdb
+C:\Users\1\Desktop\work\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+C:\Users\1\Desktop\work\obj\Debug\net8.0\ref\laba3oop.dll
+C:\zdor\work\bin\Debug\net8.0\laba3oop.exe
+C:\zdor\work\bin\Debug\net8.0\laba3oop.deps.json
+C:\zdor\work\bin\Debug\net8.0\laba3oop.runtimeconfig.json
+C:\zdor\work\bin\Debug\net8.0\laba3oop.dll
+C:\zdor\work\bin\Debug\net8.0\laba3oop.pdb
+C:\zdor\work\obj\Debug\net8.0\laba3oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\zdor\work\obj\Debug\net8.0\laba3oop.AssemblyInfoInputs.cache
+C:\zdor\work\obj\Debug\net8.0\laba3oop.AssemblyInfo.cs
+C:\zdor\work\obj\Debug\net8.0\laba3oop.csproj.CoreCompileInputs.cache
+C:\zdor\work\obj\Debug\net8.0\laba3oop.sourcelink.json
+C:\zdor\work\obj\Debug\net8.0\laba3oop.dll
+C:\zdor\work\obj\Debug\net8.0\refint\laba3oop.dll
+C:\zdor\work\obj\Debug\net8.0\laba3oop.pdb
+C:\zdor\work\obj\Debug\net8.0\laba3oop.genruntimeconfig.cache
+C:\zdor\work\obj\Debug\net8.0\ref\laba3oop.dll
